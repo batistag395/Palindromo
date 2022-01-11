@@ -1,0 +1,16 @@
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\Plalindromo.exe
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\Plalindromo.deps.json
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\Plalindromo.runtimeconfig.json
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\Plalindromo.runtimeconfig.dev.json
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\Plalindromo.dll
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\ref\Plalindromo.dll
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\bin\Debug\net5.0\Plalindromo.pdb
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.csproj.AssemblyReference.cache
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.AssemblyInfoInputs.cache
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.AssemblyInfo.cs
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.csproj.CoreCompileInputs.cache
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.dll
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\ref\Plalindromo.dll
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.pdb
+C:\Temp\ws_Visual_Studio\Palindromo\Plalindromo\obj\Debug\net5.0\Plalindromo.genruntimeconfig.cache
